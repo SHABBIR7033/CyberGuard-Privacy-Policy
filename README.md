@@ -4,8 +4,8 @@ Permanent static privacy-policy site for browser extensions.
 
 ## Pages
 - `/` — Privacy Center
-- `/cyberguard-ai/` — CyberGuard AI
-- `/focuslens/` — FocusLens
+- `/cyberguard-ai/` — CyberGuard AI - https://shabbir7033.github.io/CyberGuard-Privacy-Policy/cyberguard-ai/?utm_source=chatgpt.com
+- `/focuslens/` — FocusLens - https://shabbir7033.github.io/CyberGuard-Privacy-Policy/focuslens/?utm_source=chatgpt.com
 
 ## GitHub Pages
 Publish from the `main` branch and the repository root. The URLs will be:
